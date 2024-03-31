@@ -508,5 +508,4 @@ document.addEventListener("DOMContentLoaded", btnEvents);
 //============ Calling Load Music
 loadMusic(songs[musicIndex]);
 
-alert("Happy Holi, Anni! 🎉 May your life be filled with vibrant colors of joy, harmony, and success. Let the melody of this festive season fill your heart with endless happiness. Wishing you a wonderful celebration filled with love, laughter, and unforgettable moments! 🌈🎶");
 
